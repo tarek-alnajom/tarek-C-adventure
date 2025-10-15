@@ -13,7 +13,7 @@ Write a C program to read an email address in the format `firstname.lastname@dom
   Domain: example.com
   ```
 - **Constraints**: No arithmetic or conditionals allowed. Assume input is valid.
-- **Solution**: [starting_day/email_parser.c](../exercises/starting_day/email_parser.c)
+- **Solution**: [email_parser.c](../email_parser.c)
 
 ## Competitive Programming
 Solve 4 problems using `printf()` and `scanf()` (see [competitive.md](../competitive/competitive.md)):
