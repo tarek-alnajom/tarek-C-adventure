@@ -1,4 +1,4 @@
-# Day 1 Quiz: C Programming Basics
+# Day 1 Task: C Programming Basics
 
 Test your understanding of `printf()` and `scanf()` with the following question, based on Day 1 of the C Language 3-Month Roadmap.
 
