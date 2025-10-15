@@ -13,7 +13,7 @@ Write a C program to read an email address in the format `firstname.lastname@dom
   Domain: example.com
   ```
 - **Constraints**: No arithmetic or conditionals allowed. Assume input is valid.
-- **Solution**: [email_parser.c](../email_parser.c)
+- **Solution**: [email_parser.c](../starting_day/email_parser.c)
 
 ## Competitive Programming
 Solve 4 problems using `printf()` and `scanf()` (see [competitive.md](../competitive/competitive.md)):
@@ -25,6 +25,6 @@ Solve 4 problems using `printf()` and `scanf()` (see [competitive.md](../competi
 ## Instructions
 - Complete tasks in 1-2 hours.
 - Test code locally (e.g., `gcc file.c -o file && ./file`) or on Replit.
-- Compare your solution with [email_parser.c](../exercises/starting_day/email_parser.c).
+- Compare your solution with [email_parser.c](../starting_day/email_parser.c).
 - Submit competitive solutions to Beecrowd and Hackerrank, ensuring exact `printf()` formatting.
 - Commit to `C-Language-Roadmap` repository: `git add .`, `git commit -m "Day 1 tasks"`, `git push origin main`.
