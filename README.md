@@ -10,7 +10,7 @@ This repository documents my 3-month journey to learn C programming, starting Oc
 
 ## Roadmap Progress [You’ll need a basic understanding of C to follow this roadmap]
 - [ ] **Starting Day (Oct 16, 2025)**: C basics, program structure, printf/scanf practice.
-  - [Notes](notes/starting_day/importance&structure_c.md)
+  - [Notes](notes/starting_day/Importance & Structure_c.md)
   - [Task](exercises/starting_day/Task.md)
   - [Solution](exercises/starting_day/email_parser.c)
 - [ ] **Week 1**: Control structures, data types, loops, calculator.
