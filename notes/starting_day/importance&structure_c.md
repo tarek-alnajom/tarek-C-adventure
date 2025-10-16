@@ -45,11 +45,22 @@
   - `%s`: String
   - `%f`: Float (e.g., `%.2f` for 2 decimal places)
   - `%c`: Character
-- Example: `printf("Name: %s, Age: %d\n", "Alice", 25);`
-
-  Explain: The printf function prints text on the screen. The first part inside       the quotes "Name: %s, Age: %d\n" is a pattern or template. It contains normal      text and also special placeholders. The %s is a placeholder for a string, and      %d is a placeholder for an integer number. After the closing quote, "Alice"        and 25 are the actual values that will fill those placeholders (instead of         variable). So "Alice" replaces %s, and 25 replaces %d. In the end, the screen      shows the complete message: Name: Alice, Age: 25. The \n at the end simply         moves the cursor to the next line after printing.
-- Features: Control alignment, padding, and precision (e.g., `%10s` for right-aligned string).
-
+- Special case:
+  - `\"` to print double quote
+  - `\\` to print a single back slash
+  - `%%` to print a single back slash
+  - `\n` to print a new line
+  - `\t` Horizontal tab
+  - `\b' backspace
+  - `\r` Carriage return
+  - `\f` Form feed
+  - `\'` Single quote
+  - `\0` Null character (string terminator)
+  - `\xHH` Hexadecimal value (e.g., \x41 for 'A')
+  - `\OOO` Octal value (e.g., \101 for 'A')
+- Example:
+  - `printf("Name: %s, Age: %d\n", "Alice", 25);`
+  - `printf("\"Ro\'b\'er\t\tto/\\\"\n(._.) ( l: ) ( .-. ) ( :l )\n(._.)\n(^_-) (-_-) (-_^)\n(\"_\") (\'.\')");`
 ### Advanced scanf()
 - Used to read user input.
 - Syntax: `scanf("%d", &variable);` (Note: `&` is used to pass the variable's memory address).
