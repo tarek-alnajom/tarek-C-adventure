@@ -59,12 +59,12 @@
   - `\xHH` Hexadecimal value (e.g., \x41 for 'A')
   - `\OOO` Octal value (e.g., \101 for 'A')
 - Example:
-  - `printf("Name: %s, Age: %d\n", "Alice", 25);`
+  - `printf("Name: %s, Age: %d\n", "Alice", 25);` We've used direct string & decimal value in print instead of assigning in variable
   - ```
     output:
     Name: Alice, Age: 25
     ```         
-  - `printf("\"Ro\'b\'er\t\tto/\\\"\n(._.) ( l: ) ( .-. ) ( :l )\n(._.)\n(^_-) (-_-) (-_^)\n(\"_\") (\'.\')");`
+  - `printf("\"Ro\'b\'er\t\tto/\\\"\n(._.) ( l: ) ( .-. ) ( :l )\n(._.)\n(^_-) (-_-) (-_^)\n(\"_\") (\'.\')");` 
   - ```
     output:
     "Ro'b'er		to/\"
