@@ -51,7 +51,14 @@
 ### Advanced scanf()
 - Used to read user input.
 - Syntax: `scanf("%d", &variable);` (Note: `&` is used to pass the variable's memory address).
-- Example: `scanf("%d %s", &num, name);` to read an integer and string.
+- **Format Specifiers**
+  - `%[^.]`: Reads characters until a dot (`.`) is encountered.
+  - `%*c`: Skips a single character (used to skip the dot and `@`).
+  - `%[^@]`: Reads characters until an `@` symbol is encountered.
+  - `%[^\n]`: Reads the remaining characters until a newline is encountered.
+- Example:
+  - `scanf("%d %s", &num, name);` to read an integer and string.
+  - `scanf("%[^@]%*c%[^\n]", username, domain);` Reads characters until @, skips     @, then reads the rest of the line
 - Features: Can read multiple inputs in one line, handles different data types.
 
 ## Recommended Learning Resources
