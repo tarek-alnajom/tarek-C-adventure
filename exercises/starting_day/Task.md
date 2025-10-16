@@ -16,9 +16,9 @@ Write a C program to read an email address in the format `firstname.lastname@dom
 - **Solution**: [email_parser.c](../starting_day/email_parser.c)
 
 ## Competitive Programming
-Solve 4 problems using `printf()` and `scanf()` (see [competitive.md](../competitive/competitive.md)):
-1. **Beecrowd 1000**: Print "Hello World!". [beecrowd_1000.c](../competitive/beecrowd_1000.c)
-2. **Hackerrank Hello World**: Print "Hello, World!". [hackerrank_hello_world.c](../competitive/hackerrank_hello_world.c)
+Solve 4 problems using `printf()` and `scanf()`:
+1. **Beecrowd 1000**: Print "Hello World!". [beecrowd_1000.c](competitive/starting_day/beecrowd_1000.c)
+2. **Hackerrank Hello World**: Print "Hello, World!". [hackerrank_hello_world.c](competitive/starting_day/hackerrank_hello_world.c)
 3. **Hackerrank Playing With Characters**: Read and print a char, string, sentence. [hackerrank_playing_with_characters.c](../competitive/hackerrank_playing_with_characters.c)
 4. **Hackerrank Input and Output**: Read three integers, print as is. [hackerrank_input_output.c](../competitive/hackerrank_input_output.c)
 
