@@ -46,6 +46,7 @@
   - `%f`: Float (e.g., `%.2f` for 2 decimal places)
   - `%c`: Character
 - Example: `printf("Name: %s, Age: %d\n", "Alice", 25);`
+    -Explain: The printf function prints text on the screen. The first part inside     the quotes "Name: %s, Age: %d\n" is a pattern or template. It contains normal      text and also special placeholders. The %s is a placeholder for a string, and      %d is a placeholder for an integer number. After the closing quote, "Alice"        and 25 are the actual values that will fill those placeholders (instead of         variable). So "Alice" replaces %s, and 25 replaces %d. In the end, the screen      shows the complete message: Name: Alice, Age: 25. The \n at the end simply         moves the cursor to the next line after printing.
 - Features: Control alignment, padding, and precision (e.g., `%10s` for right-aligned string).
 
 ### Advanced scanf()
