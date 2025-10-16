@@ -9,7 +9,7 @@ This repository documents my 3-month journey to learn C programming, starting Oc
 - `competitive/`: Solutions for Beecrowd, Vjudge, and HackerRank problems.
 
 ## Roadmap Progress [You’ll need a basic understanding of C to follow this roadmap]
-- [ ] **Starting Day (Oct 16, 2025)**: C basics, program structure, printf/scanf practice.
+- [ ] **Starting Day (Oct 20, 2025)**: C basics, program structure, printf/scanf practice.
   - [Notes](notes/starting_day/Importance_structure-c.md)
   - [Task](exercises/starting_day/Task.md)
   - [Solution](exercises/starting_day/email_parser.c)
