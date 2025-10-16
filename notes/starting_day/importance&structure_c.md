@@ -60,7 +60,19 @@
   - `\OOO` Octal value (e.g., \101 for 'A')
 - Example:
   - `printf("Name: %s, Age: %d\n", "Alice", 25);`
+  - ```
+    output:
+    Name: Alice, Age: 25
+    ```         
   - `printf("\"Ro\'b\'er\t\tto/\\\"\n(._.) ( l: ) ( .-. ) ( :l )\n(._.)\n(^_-) (-_-) (-_^)\n(\"_\") (\'.\')");`
+  - ```
+    output:
+    "Ro'b'er		to/\"
+    (._.) ( l: ) ( .-. ) ( :l )
+    (._.)
+    (^_-) (-_-) (-_^)
+    ("_") ('.')
+    ```
 ### Advanced scanf()
 - Used to read user input.
 - Syntax: `scanf("%d", &variable);` (Note: `&` is used to pass the variable's memory address).
