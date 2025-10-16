@@ -12,6 +12,7 @@ This repository documents my 3-month journey to learn C programming, starting Oc
 - [ ] **Starting Day (Oct 16, 2025)**: C basics, program structure, printf/scanf practice.
   - [Notes](notes/starting_day/importance&structure_c.md)
   - [Task](exercises/starting_day/Task.md)
+  - [Solution](exercises/starting_day/email_parser.c)
 - [ ] **Week 1**: Control structures, data types, loops, calculator.
 - [ ] **Week 2**: Arrays, searching, sorting.
 - [ ] **Week 3**: Strings, character handling.
