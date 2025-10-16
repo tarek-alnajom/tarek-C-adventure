@@ -1,6 +1,6 @@
 # tarek-C-adventure
 
-This repository documents my 3-month journey to learn C programming, starting October 16, 2025, based on a structured roadmap. I'm using Kali Linux, Geany, and GCC to build exercises, projects, and competitive programming solutions.
+This repository documents my 3-month journey to learn C programming, starting October 20, 2025, based on a structured roadmap. I'm using Kali Linux, Geany, and GCC to build exercises, projects, and competitive programming solutions.
 
 ## Repository Structure
 - `notes/`: Summaries of K&R lessons and concepts (e.g., `week1/control_data_basics.md`).
