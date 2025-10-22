@@ -16,7 +16,7 @@ This repository documents my 3-month journey to learn C programming, starting Oc
 - [ ] **Week 1**: Control structures, data types, loops, calculator.
   - **Day 1**: Advanced Data type
     - [Notes](notes/1st_week/Advanced-datatype_day(1-2).md)
-    - [Task](exercies/Week_1)
+    - [Task](exercises/Week_1/)
 - [ ] **Week 2**: Arrays, searching, sorting.
 - [ ] **Week 3**: Strings, character handling.
 - [ ] **Week 4**: Functions, recursion.
