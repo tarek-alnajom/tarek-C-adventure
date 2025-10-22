@@ -14,6 +14,8 @@ This repository documents my 3-month journey to learn C programming, starting Oc
   - [Task](exercises/starting_day/Task.md)
   - [Solution](exercises/starting_day/email_parser.c)
 - [ ] **Week 1**: Control structures, data types, loops, calculator.
+  - [Day 1]
+    - [Notes](notes/1st_week/Advanced-datatype_day(1-2).md)
 - [ ] **Week 2**: Arrays, searching, sorting.
 - [ ] **Week 3**: Strings, character handling.
 - [ ] **Week 4**: Functions, recursion.
